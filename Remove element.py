@@ -1,4 +1,4 @@
-#Remove the  given element from the list and print the count of elements
+#Remove the  given element from the list and print the count of elements in list.
 
 nums=list(map(int,input().split()))
 val=int(input())
