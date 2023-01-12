@@ -1,6 +1,7 @@
 #Remove the  given element from the list and print the count of elements
 
 nums=list(map(int,input().split()))
+val=int(input())
 count=0
 for i in range(len(nums)):
     if nums[i]!=val:
